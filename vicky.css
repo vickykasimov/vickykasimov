@@ -1,0 +1,70 @@
+.introbox{
+}
+.body{
+  padding: 30px;
+  background-color: #E6E6E6;
+}
+body{
+  padding: 30px;
+  background-color: #F2F2F2;
+  color: #2E2E2E;
+  font-size: 14px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+.introbox2{
+
+  padding-left: 40px;
+  padding-right: 560px;
+}
+.side{
+  text-align: center;
+  font-size: 17px;
+
+}
+.interests{
+  float: right;
+  padding-right: 130px;
+  text-align: center;
+}
+.link{
+  color: blue;
+  font-style: italic;
+  font-weight:
+}
+.languages{
+  float: right;
+  padding-right: 70px;
+}
+.title{
+font-size: 18px;
+}
+.skills{
+  float: right;
+
+}
+.mypic{
+  float: right;
+  padding-right: 60px;
+}
+.name{
+  font-size: 90px;
+}
+.dates{
+  font-style: italic;
+}
+.pos{
+  font-weight: bold;
+  color: #2B315B
+}
+.where{
+  font-weight: normal;
+  color: #2E2E2E;
+}
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+     padding: 30px;
+     background-color: #E6E6E6;
+}
